@@ -1,4 +1,4 @@
-# Skill Assisessment Handwritten Digit Recognition using MLP
+# Skill Assessment Handwritten Digit Recognition using MLP
 ## AIM:
 To Recognize the Handwritten Digits using Multilayer perceptron.
 ##  EQUIPMENTS REQUIRED:
